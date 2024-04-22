@@ -39,7 +39,9 @@ The testing protocols are designed to measure improvements in detection accuracy
 ![image](https://github.com/officialkushagragupta/Recurrent-Exposure-Generation-for-Low-Light-Face-Detection/assets/96885711/76ff4e03-2e65-4511-8f59-494f356f3ae9)
 
 **The model demonstrated remarkable improvements throughout the training:**
+ 
  The total loss was reduced by approximately **92.30%.**
+ 
  The validation total loss was reduced by about **90.96%.**
 
 

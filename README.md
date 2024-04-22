@@ -18,7 +18,19 @@ This project simulates the effects of multi-exposure photography from a single i
 
 
 ## Implementation
-![image](https://github.com/officialkushagragupta/Recurrent-Exposure-Generation-for-Low-Light-Face-Detection/assets/96885711/ee9ad8c5-3c64-42eb-a5be-24237f70434d)
+
+**Face Detection Model:** Utilizes the DCE-NET model, specifically tailored to handle low-light images enhanced through our developed techniques.
+
+**DNN Algorithm:** A Deep Neural Network (DNN) is employed to detect faces after the images have been enhanced. This step is crucial for assessing the effectiveness of the enhancements.
+
+**Dataset and Testing:**
+The Dark Face dataset is used to evaluate the performance.
+The testing protocols are designed to measure improvements in detection accuracy and detail preservation under low-light conditions.
+
+# Results and Evaluation
+
+**The model demonstrated remarkable improvements throughout the training:**
+ The total loss was reduced by approximately **92.30%.**
+ The validation total loss was reduced by about **90.96%.**
 
 
-![image](https://github.com/officialkushagragupta/Recurrent-Exposure-Generation-for-Low-Light-Face-Detection/assets/96885711/19ecf45b-e9e5-49a3-b2b1-58ada8d0c705)

@@ -34,6 +34,10 @@ This project simulates the effects of multi-exposure photography from a single i
 The Dark Face dataset is used to evaluate the performance.
 The testing protocols are designed to measure improvements in detection accuracy and detail preservation under low-light conditions.
 
+# Code
+since the file is too large to be uploaded completely on github, I have mentioned it here in drive link below.
+[https://colab.research.google.com/drive/150rl9GbBpGaqg87MjHyqPg-H004XWOV4#scrollTo=AAKXaYtNU6as](https://drive.google.com/file/d/150rl9GbBpGaqg87MjHyqPg-H004XWOV4/view?usp=sharing)
+
 # Results and Evaluation
 
 ![image](https://github.com/officialkushagragupta/Recurrent-Exposure-Generation-for-Low-Light-Face-Detection/assets/96885711/76ff4e03-2e65-4511-8f59-494f356f3ae9)
@@ -43,5 +47,7 @@ The testing protocols are designed to measure improvements in detection accuracy
  The total loss was reduced by approximately **92.30%.**
  
  The validation total loss was reduced by about **90.96%.**
+
+ 
 
 
